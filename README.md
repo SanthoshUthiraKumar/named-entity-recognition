@@ -172,8 +172,8 @@ for w, true, pred in zip(X_test[i], y_true, p[0]):
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
-<img height=45% width=50% src=https://github.com/SanthoshUthiraKumar/named-entity-recognition/assets/119477975/9f21e882-f4fa-4b98-94fe-a12dbd0a6180>
-<img height=45% width=50% src=https://github.com/SanthoshUthiraKumar/named-entity-recognition/assets/119477975/451ccaa7-5e2c-4304-aa97-3e50b99b4fc1>
+![Output1](https://github.com/SanthoshUthiraKumar/named-entity-recognition/assets/119477975/6635f59e-a25b-4b89-83a0-f0a4bf3d3ae4)
+![Output2](https://github.com/SanthoshUthiraKumar/named-entity-recognition/assets/119477975/68a8f3dc-e67a-42e3-8f2e-7af2b572b847)
 
 ### Sample Text Prediction
 ![Output3](https://github.com/SanthoshUthiraKumar/named-entity-recognition/assets/119477975/46a9e254-fcd0-4c33-9995-88aec87c3256)
